@@ -1,0 +1,14 @@
+---
+title: "Favorites"
+---
+
+## Favorite Dog Breeds
+
+- Imu-enu
+- Pit Bull
+- Dachshund
+- Golden Retriever
+
+## Favorite Characters From Terminator Movies
+
+- The Terminator

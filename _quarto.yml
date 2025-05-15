@@ -8,11 +8,17 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - favorites.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: quartz
+    mainfont: arial
+    fontsize: 1rem
+    fontcolor: "black"
+    linkcolor: "blue"
+    monofont: courier new
+#    backgroundcolor:
     css: styles.css
     toc: true
 

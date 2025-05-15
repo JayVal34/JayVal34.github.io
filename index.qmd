@@ -1,11 +1,33 @@
 ---
-title: "JayVal34.github.io"
+title: "Jeramia Valentine"
+image: ValentineNature.jpg
+resources: ValentineResume.pdf
+about:
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:jeramia.valentine@gmail.com
+    - text: GitHub
+      icon: github
+      href: https://github.com/JayVal34
+    - text: YouTube
+      icon: youtube
+      href: https://youtube.com/@JeramiaValentine
+    - text: Resume
+      icon: file-text
+      href: ValentineResume.pdf
+  id: ppc
 ---
 
-This is Jeramia Valentine's Quarto Website.
+:::{#ppc}
+I love Land Surveying. Here a couple pics of me surveying.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![A Random Awesome Horse Walked Up To Me](ValentineHorse.jpg)
 
-```{r}
-1 + 1
-```
+![Surveying The North Dakota Badlands](ValentineSurveying.jpg)
+
+If you like land surveying data science gis mapping cartography too, then you should definitely hire me for a highly paid position.
+:::
