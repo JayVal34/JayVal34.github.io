@@ -9,14 +9,15 @@ website:
       - href: index.qmd
         text: Home
       - favorites.qmd
+      - hobbies.qmd
 
 format:
   html:
-    theme: quartz
+    theme: vapor
     mainfont: arial
-    fontsize: 1rem
-    fontcolor: "black"
-    linkcolor: "blue"
+    fontsize: 1.5rem
+    fontcolor: "white"
+    linkcolor: "white"
     monofont: courier new
 #    backgroundcolor:
     css: styles.css

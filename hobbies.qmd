@@ -1,0 +1,16 @@
+---
+title: "Hobbies"
+---
+
+## Three Hobbies Include
+
+- Playing Guitar
+- Hiking
+- Cooking
+
+:::{#ppc}
+Me Playing Flamenco Guitar.
+
+![Guitar Playing](ValentineGuitar.mp4)
+
+:::
